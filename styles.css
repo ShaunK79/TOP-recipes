@@ -1,13 +1,40 @@
+
+body {
+    background-color: burlywood;
+}
+
 h1 {
-    background-color: aquamarine;
+    background-color: beige;
     color: blueviolet;
     font-weight: bold;
     text-align: center;
     font-size: 40px;
+    border-radius: 20rem;
 }
+
 h3 {
-    background-color: beige;
-    color: aqua;
+    background-color: rgb(234, 199, 199);
+    color: blueviolet;
     font-weight: bold;
-    font-size: 25px;
+    font-size: 20px;
+    border-radius: 5px;
+}
+
+p {
+    color: blueviolet;
+    background-color: rgb(234, 199, 199);
+    font-weight: bold;
+    border-radius: 5px;
+    text-align: left;
+    
+}
+
+a {
+    color: blueviolet;
+    font-weight: bold;
+    background-color: rgb(234, 199, 199);
+}
+
+li {
+    color: beige;
 }
