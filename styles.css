@@ -1,10 +1,10 @@
-
+/* index.html */
 body {
     background-color: burlywood;
 }
 
 h1 {
-    background-color: beige;
+    background-color: rgb(234, 199, 199);
     color: blueviolet;
     font-weight: bold;
     text-align: center;
@@ -38,3 +38,7 @@ a {
 li {
     color: beige;
 }
+/* index.html */
+
+/* amaretti-biscuits.html */
+
